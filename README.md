@@ -4,5 +4,6 @@ This project is intended to act as documented examples of some of the more odd p
 
 ## Examples
 
-- `Typing.Annotated` and potential uses:
-  - [Binary dataclasses](type_annotated_example.ipynb)
+- Representing encoding behavior in classes:
+  - [`typing.Annotated`](type_annotated_example.ipynb)
+  - [`dataclasses.field(metadata)`](dataclass_metadata_example.ipynb)
